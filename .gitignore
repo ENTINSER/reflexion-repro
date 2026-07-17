@@ -1,0 +1,33 @@
+# Python
+venv/
+.env
+*.pyc
+__pycache__/
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# Data / caches / large artifacts
+chromadb_*/
+narrativeqa_hf/
+*.parquet
+*.db
+
+# Outputs (keep source notebooks; outputs can be regenerated)
+# If you want to commit result notebooks, comment the next line
+# *_output.ipynb
+
+# Large generated data / outputs
+narrativeqa_hf/
+chromadb_*/
+*.h5
+*.pkl
+*.safetensors

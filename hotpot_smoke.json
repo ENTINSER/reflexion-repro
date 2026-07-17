@@ -1,0 +1,12 @@
+[
+  {"_id": "smoke_1", "question": "What is the capital of the country where the Eiffel Tower is located?", "answer": "Paris", "type": "bridge"},
+  {"_id": "smoke_2", "question": "Who wrote the novel that the film 'The Shining' is based on?", "answer": "Stephen King", "type": "bridge"},
+  {"_id": "smoke_3", "question": "What is the largest planet in the Solar System?", "answer": "Jupiter", "type": "single"},
+  {"_id": "smoke_4", "question": "In which city was the author of the book '1984' born?", "answer": "Motihari", "type": "bridge"},
+  {"_id": "smoke_5", "question": "What is the currency of the country where the Great Wall of China is located?", "answer": "Renminbi", "type": "bridge"},
+  {"_id": "smoke_6", "question": "Who painted the Mona Lisa?", "answer": "Leonardo da Vinci", "type": "single"},
+  {"_id": "smoke_7", "question": "What is the highest mountain on Earth?", "answer": "Mount Everest", "type": "single"},
+  {"_id": "smoke_8", "question": "Which chemical element has the symbol O?", "answer": "Oxygen", "type": "single"},
+  {"_id": "smoke_9", "question": "What is the official language of Brazil?", "answer": "Portuguese", "type": "single"},
+  {"_id": "smoke_10", "question": "Who is credited with the discovery of penicillin?", "answer": "Alexander Fleming", "type": "single"}
+]
